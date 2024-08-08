@@ -14,6 +14,6 @@ Soy un **Desarrollador Front-End** con habilidades en **HTML, CSS, JavaScript (P
 Estoy buscando mi **primer empleo como programador** para aplicar mis conocimientos y seguir creciendo profesionalmente.
 
 ## 📫 Contáctame
-- [Correo electrónico](axeljonta@gmail.com): axeljonta@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/axel-jontade/): https://www.linkedin.com/in/axel-jontade/
+- Correo electrónico: axeljonta@gmail.com
+- LinkedIn: https://www.linkedin.com/in/axel-jontade/
 
