@@ -4,7 +4,7 @@ Soy un **Desarrollador Front-End** con habilidades en **HTML, CSS, JavaScript (P
 
 ## 🚀 Habilidades
 - **Lenguajes**: HTML, CSS, SASS, JavaScript, Python
-- **Herramientas**: Git
+- **Herramientas**: Git, SQL 
 
 ## 🎓 Educación
 - **Front-End** en Coderhouse
